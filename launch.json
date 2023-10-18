@@ -1,0 +1,150 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Armstronga",
+      "request": "launch",
+      "mainClass": "Armstronga",
+      "projectName": "Vscode_6cb635d"
+    },
+    {
+      "type": "java",
+      "name": "patternplus",
+      "request": "launch",
+      "mainClass": "patternplus",
+      "projectName": "Vscode_6cb635d"
+    },
+    {
+      "type": "java",
+      "name": "Pattern8",
+      "request": "launch",
+      "mainClass": "Pattern8",
+      "projectName": "Vscode_6cb635d"
+    },
+    {
+      "type": "java",
+      "name": "Armstrongfn",
+      "request": "launch",
+      "mainClass": "Armstrongfn",
+      "projectName": "Vscode_6cb635d"
+    },
+    {
+      "type": "java",
+      "name": "Pattern10",
+      "request": "launch",
+      "mainClass": "Pattern10",
+      "projectName": "Vscode_6cb635d"
+    },
+    {
+      "type": "java",
+      "name": "Prime",
+      "request": "launch",
+      "mainClass": "Prime",
+      "projectName": "Vscode_6cb635d"
+    },
+    {
+      "type": "java",
+      "name": "Reverse",
+      "request": "launch",
+      "mainClass": "Reverse",
+      "projectName": "Vscode_6cb635d"
+    },
+    {
+      "type": "java",
+      "name": "Factorial",
+      "request": "launch",
+      "mainClass": "Factorial",
+      "projectName": "Vscode_6cb635d"
+    },
+    {
+      "type": "java",
+      "name": "Sumofdigits",
+      "request": "launch",
+      "mainClass": "Sumofdigits",
+      "projectName": "Vscode_6cb635d"
+    },
+    {
+      "type": "java",
+      "name": "Evenodd",
+      "request": "launch",
+      "mainClass": "Evenodd",
+      "projectName": "Vscode_6cb635d"
+    },
+    {
+      "type": "java",
+      "name": "Discount",
+      "request": "launch",
+      "mainClass": "Discount",
+      "projectName": "Vscode_6cb635d"
+    },
+    {
+      "type": "java",
+      "name": "Incometax",
+      "request": "launch",
+      "mainClass": "Incometax",
+      "projectName": "Vscode_6cb635d"
+    },
+    {
+      "type": "java",
+      "name": "Temp",
+      "request": "launch",
+      "mainClass": "Temp",
+      "projectName": "Vscode_6cb635d"
+    },
+    {
+      "type": "java",
+      "name": "Bmi",
+      "request": "launch",
+      "mainClass": "Bmi",
+      "projectName": "Vscode_6cb635d"
+    },
+    {
+      "type": "java",
+      "name": "Pattern",
+      "request": "launch",
+      "mainClass": "Pattern",
+      "projectName": "Vscode_6cb635d"
+    },
+    {
+      "type": "java",
+      "name": "Pattern2",
+      "request": "launch",
+      "mainClass": "Pattern2",
+      "projectName": "Vscode_6cb635d"
+    },
+    {
+      "type": "java",
+      "name": "Pattern1",
+      "request": "launch",
+      "mainClass": "Pattern1",
+      "projectName": "Vscode_6cb635d"
+    },
+    {
+      "type": "java",
+      "name": "leap",
+      "request": "launch",
+      "mainClass": "leap",
+      "projectName": "Vscode_6cb635d"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Himanshu Tyagi/OneDrive/Desktop/Vscode",
+      "program": "c:/Users/Himanshu Tyagi/OneDrive/Desktop/Vscode/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
